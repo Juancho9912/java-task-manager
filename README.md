@@ -26,5 +26,3 @@ Este es un pequeño gestor de tareas hecho en Java puro desde consola. Sirve par
 
 ---
 
-📌 Este proyecto fue realizado como parte de una rutina de entrenamiento para convertirme en desarrollador backend profesional en Java con Spring Boot.
-
